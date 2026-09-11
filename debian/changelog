@@ -1,3 +1,9 @@
+libdc1394 (2.2.6-5) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 16:21:42 +0800
+
 libdc1394 (2.2.6-4) unstable; urgency=medium
 
   * debian/libdc1394-25.symbols: Add symbols file
